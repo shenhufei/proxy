@@ -18,6 +18,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../work-space/ttpai_app_dealer/src/main/java/com/ttpai/api/app/handler/DealerAppHandlerV3_2_5.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work-space/ttpai_app_dealer/src/main/java/com/ttpai/api/app/service/DealerAppServiceV3_2_5.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work-space/ttpai_app_dealer/src/main/java/com/ttpai/api/pai/service/DealerMarginRefund2Service.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/SpringbootApp/src/main/java/com/brent/springboot/controller/mainController.java">
           <value>
             <set />

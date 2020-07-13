@@ -5,7 +5,14 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class mainController {
-	
+
+
+
+
+
+
+
+
 	@RequestMapping("/home")
 	public String message() {
 		return "BAM!";
