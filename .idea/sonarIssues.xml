@@ -48,6 +48,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/SpringbootApp/src/main/java/version/service/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SpringbootApp/src/main/java/version/service/controller/mainController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboots-master/SpringbootApp/src/main/java/springboot/controller/mainController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
